@@ -5,12 +5,12 @@
 */
 
 body {
-  background-color: rgb(140, 12, 166);
+  background-color: rgb(140 12 166);
 }
 
 h1 {
-  background-color: rgb(236, 236, 16);
-  color: hsl(145, 63%, 32%);
+  background-color: rgb(236 236 16);
+  color: hsl(145 63% 32%);
   padding: 40px;
   text-align: center;
 }
